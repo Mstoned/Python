@@ -15,7 +15,7 @@
 <br />
 <hr />
 
-[youtube]:https://www.youtube.com/playlist?list=PLWcSxRTjU9nA8J4xLTZ0OzVxCnZEEM3G3
+
 [gmail]: mailto:iammohitshukla9@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohit-shukla-597170141/
 [github]: https://github.com/Mstoned 
