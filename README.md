@@ -2,10 +2,8 @@
 
 # Python series 
   
-  
-<img align="right" alt="GIF"  width="300px" src="
-https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif" />
-  
+<a href="https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif" target="_blank" rel="nofollow"><img src="https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif" alt="" style="max-width:100%;"></a>
+
 <br />
 <hr /
 
