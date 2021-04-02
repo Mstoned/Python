@@ -2,7 +2,7 @@
 
 # Python series 
                   
-
+https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif
 <br />
 <hr /
 
