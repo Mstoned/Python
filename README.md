@@ -1,6 +1,7 @@
 [![](https://img.shields.io/badge/Author-Mohitshukla-green.svg)](https://github.com/Mstoned )<br>
 
 # Python series 
+
 # Data 
   
 <a href="https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif" target="_blank" rel="nofollow"><img src="https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads_new/2018/03/hidden-layers-in-network.gif" alt="" style="max-width:100%;"></a>
