@@ -22,7 +22,6 @@
 <hr />
 
 
-
 [gmail]: mailto:iammohitshukla9@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohit-shukla-597170141/
 [github]: https://github.com/Mstoned 
