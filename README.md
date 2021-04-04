@@ -3,7 +3,7 @@
 # Python series 
 - Numpy 
 - pandas
-- Function
+
 
 # Data 
   
