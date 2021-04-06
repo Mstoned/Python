@@ -3,6 +3,7 @@
 # Python series 
 - List
 - Tuples
+- Set
 
 
 
