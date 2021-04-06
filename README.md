@@ -1,8 +1,15 @@
 [![](https://img.shields.io/badge/Author-Mohitshukla-green.svg)](https://github.com/Mstoned )<br>
 
 # Python series 
+
+
+
+
+# data stru
 - Numpy 
 - pandas
+
+
 
 
 # Data 
