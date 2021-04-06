@@ -2,6 +2,7 @@
 
 # Python series 
 - List
+- Tuples
 
 
 
