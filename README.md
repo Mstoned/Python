@@ -9,7 +9,8 @@
 
 # data stru
 - Numpy 
-- pandas
+- pandas 
+- Seaborn
 
 
 
