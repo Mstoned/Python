@@ -4,7 +4,7 @@
 - List
 - Tuples
 - Set
-
+- Dictionary
 
 
 # data stru
