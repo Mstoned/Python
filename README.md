@@ -7,7 +7,7 @@
 - Dictionary
 
 
-# data stru
+# data structure 
 - Numpy 
 - pandas 
 - Seaborn
