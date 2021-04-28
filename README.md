@@ -12,7 +12,9 @@
 - pandas 
 - Seaborn
 
-
+# Coming soon deatil 
+- Logistic Regression 
+<a href="https://github.com/Mstoned/Python/blob/main/Data_gif/logistic.gif" alt="" style="max-width:100%;">
 
 
 # Data 
