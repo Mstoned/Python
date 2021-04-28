@@ -15,7 +15,9 @@
 # Coming soon deatil 
 - Logistic Regression 
 <a href="https://github.com/Mstoned/Python/blob/main/Data_gif/logistic.gif" target="_blank" rel="nofollow"></a>
-
+<p align="center">
+  <img src="https://github.com/Mstoned/Python/blob/main/Data_gif/logistic.gif">
+</p>
 
 
 # Data 
