@@ -13,7 +13,7 @@
 - Seaborn
 
 # Coming soon deatil 
-- Logistic Regression 
+- Logistic Regression : Logistic Regression is a Machine Learning algorithm which is used for the classification problems, it is a predictive analysis algorithm and based on the concept of probability.
 
 <p align="center">
   <img src="https://github.com/Mstoned/Python/blob/main/Data_gif/logistic.gif">
